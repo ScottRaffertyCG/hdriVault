@@ -3,13 +3,14 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "HdriVault",
-	"Description": "",
-	"Category": "Other",
+	"Description": "A centralized manager for HDRI assets with automatic EXR conversion and organization tools.",
+	"Category": "Editor",
 	"CreatedBy": "Pyre Labs",
-	"CreatedByURL": "www.pyre-labs.com",
+	"CreatedByURL": "https://www.pyre-labs.com",
 	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/HdriVault",
+	"SupportURL": "mailto:support@pyre-labs.com",
+	"EngineVersion": "5.6.0",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -18,7 +19,12 @@
 		{
 			"Name": "HdriVault",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }

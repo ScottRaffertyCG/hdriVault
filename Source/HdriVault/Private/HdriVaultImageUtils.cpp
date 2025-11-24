@@ -1,4 +1,4 @@
-// Copyright Pyre Labs. All Rights Reserved.
+// Copyright Pyre Labs 2025. All Rights Reserved.
 
 #include "HdriVaultImageUtils.h"
 #include "Misc/Paths.h"
