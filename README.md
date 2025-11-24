@@ -26,7 +26,7 @@
 *   **Panoramic Thumbnails**: Assets are displayed with a **2:1 aspect ratio** to properly visualize the full horizon, rather than a distorted sphere.
 *   **Customizable Grid**: Adjustable thumbnail sizes and view modes.
 <br>
-<img src="Resources/hdrivault_thumbnails.gif" width="600" alt="HdriVault thumbnails preview">
+<img src="Resources/hdri_thumbnails.gif" width="600" alt="HdriVault thumbnails preview">
 
 ### ⚡ Instant Lighting
 *   **1-Click Apply**: Double-click any HDRI to instantly apply it to:
