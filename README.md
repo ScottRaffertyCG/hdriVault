@@ -1,9 +1,8 @@
+# ![HdriVault Preview](Resources/Icon128.png) 
 # HdriVault
 
 **HdriVault** is an open-source plugin for Unreal Engine 5 that acts as a centralized manager for your HDRI library. It simplifies the process of importing, organizing, visualizing, and applying panoramic HDRI textures to your scenes.
 
-![HdriVault Preview](Resources/Icon128.png) 
-*(Replace with a screenshot of the UI once available)*
 
 ## Features
 
@@ -12,16 +11,22 @@
 *   **Dual Views**: Navigate using your familiar folder structure or organize efficiently with custom **Categories**.
 *   **Tagging System**: Add custom tags to assets for quick filtering and retrieval.
 *   **Metadata**: View dimensions, resource size, and add custom notes/author info that persists separately from the asset file.
+<br>
+<img src="Resources/hdriVault_Overview.gif" width="600" alt="HdriVault asset preview">
 
 ### 🚀 Smart Import Workflow
 *   **Drag-and-Drop**: Drag `.exr` or `.hdr` files directly from Windows Explorer into the plugin window.
 *   **Auto-Conversion**: Built-in C++ converter (using `tinyexr`) automatically converts **EXR to HDR** on import—no external tools required!
 *   **Batch Tagging**: Set the destination folder, category, tags, and author for a batch of files *before* import.
 *   **Native Integration**: Uses Unreal's native asset pipeline but suppresses default dialogs for speed.
+<br>
+<img src="Resources/hdrivault_import.gif" width="600" alt="HdriVault import preview">
 
 ### 🎨 Visualization
 *   **Panoramic Thumbnails**: Assets are displayed with a **2:1 aspect ratio** to properly visualize the full horizon, rather than a distorted sphere.
 *   **Customizable Grid**: Adjustable thumbnail sizes and view modes.
+<br>
+<img src="Resources/hdri_thumbnails.gif" width="600" alt="HdriVault thumbnails preview">
 
 ### ⚡ Instant Lighting
 *   **1-Click Apply**: Double-click any HDRI to instantly apply it to:
