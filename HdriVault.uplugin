@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HdriVault",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Pyre Labs",
+	"CreatedByURL": "www.pyre-labs.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HdriVault",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
