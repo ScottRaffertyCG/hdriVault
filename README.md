@@ -11,6 +11,7 @@
 *   **Dual Views**: Navigate using your familiar folder structure or organize efficiently with custom **Categories**.
 *   **Tagging System**: Add custom tags to assets for quick filtering and retrieval.
 *   **Metadata**: View dimensions, resource size, and add custom notes/author info that persists separately from the asset file.
+![HdriVault asset preview](Resources/hdriVault_Overview.gif)
 
 ### 🚀 Smart Import Workflow
 *   **Drag-and-Drop**: Drag `.exr` or `.hdr` files directly from Windows Explorer into the plugin window.
