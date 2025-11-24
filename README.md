@@ -2,8 +2,7 @@
 
 **HdriVault** is an open-source plugin for Unreal Engine 5 that acts as a centralized manager for your HDRI library. It simplifies the process of importing, organizing, visualizing, and applying panoramic HDRI textures to your scenes.
 
-![HdriVault Preview](Resources/Icon128.png) 
-*(Replace with a screenshot of the UI once available)*
+![HdriVault Preview](Resources/Icon128.png)
 
 ## Features
 
